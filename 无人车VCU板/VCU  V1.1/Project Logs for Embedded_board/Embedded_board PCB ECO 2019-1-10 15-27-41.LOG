@@ -1,0 +1,82 @@
+Change Component Comment : Designator=R1 Old Comment=0R New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=510
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=510
+Change Component Comment : Designator=D1 Old Comment=1N4148 New Comment=SS14
+Change Component Comment : Designator=R14 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R16 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R18 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R20 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R24 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R26 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R28 Old Comment=4.7K New Comment=1K
+Change Component Comment : Designator=R84 Old Comment=4.7K New Comment=100
+Change Component Comment : Designator=R85 Old Comment=4.7K New Comment=100
+Change Component Comment : Designator=R90 Old Comment=4.7K New Comment=100
+Change Component Comment : Designator=R93 Old Comment=4.7K New Comment=100
+Change Component Comment : Designator=F2 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F3 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F4 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F5 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F6 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F7 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F8 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F9 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=F10 Old Comment=5A New Comment=5A±£ÏÕË¿×ù
+Change Component Comment : Designator=R6 Old Comment=10R New Comment=1M
+Change Component Comment : Designator=R58 Old Comment=100 New Comment=2.2K
+Change Component Comment : Designator=R59 Old Comment=100 New Comment=10K
+Change Component Comment : Designator=Cap1 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap2 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap3 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap4 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap5 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap6 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap21 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=Cap22 Old Comment=220uF New Comment=100uF
+Change Component Comment : Designator=R30 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R32 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R34 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R36 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R38 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R40 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R86 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R95 Old Comment=550 New Comment=330
+Change Component Comment : Designator=R13 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R15 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R17 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R19 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R21 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R23 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R25 Old Comment=550 New Comment=750
+Change Component Comment : Designator=R27 Old Comment=550 New Comment=750
+Change Component Comment : Designator=MidLeftLight Old Comment=Header 2 New Comment=5566-2P
+Change Component Comment : Designator=MidRightLight Old Comment=Header 2 New Comment=5566-2P
+Change Component Comment : Designator=12V OUT Old Comment=Header 2 New Comment=63080-2P
+Change Component Comment : Designator=Horn Old Comment=Header 2 New Comment=63080-2P
+Change Component Comment : Designator=PowerIN Old Comment=Header 2 New Comment=63080-2P
+Change Component Comment : Designator=WarningLight Old Comment=Header 2 New Comment=63080-2P
+Change Component Comment : Designator=LIN1 Old Comment=Header 3 New Comment=5566-3P
+Change Component Comment : Designator=LIN2 Old Comment=Header 3 New Comment=5566-3P
+Change Component Comment : Designator=AnlogInput Old Comment=Header 3X2 New Comment=ÅÅÕëHeader 3X2
+Change Component Comment : Designator=Bumper1 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=Bumper2 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=Encoder1 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=Encoder2 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=Encoder3 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=Encoder4 Old Comment=Header 4 New Comment=5566-4P
+Change Component Comment : Designator=HeadLeftLight Old Comment=Header 4 New Comment=63080-4P
+Change Component Comment : Designator=HeadRightLight Old Comment=Header 4 New Comment=63080-4P
+Change Component Comment : Designator=12VOUT Old Comment=Header 5 New Comment=5566-5P
+Change Component Comment : Designator=TailLeftLight Old Comment=Header 5 New Comment=5566-5P
+Change Component Comment : Designator=TailRightLight Old Comment=Header 5 New Comment=5566-5P
+Change Component Comment : Designator=SWD Old Comment=Header 5 New Comment=XH2.54½Ó²å¼þ-5P
+Change Component Comment : Designator=IO Old Comment=Header 6X2 New Comment=ÅÅÕëHeader 6X2
+Change Component Comment : Designator=Power Old Comment=LED1 New Comment=LEDºìÉ«
+Change Component Comment : Designator=DS0 Old Comment=LED1 New Comment=LEDÂÌÉ«
+Change Component Comment : Designator=COM232 Old Comment=USART_F(Ä¸Í·) New Comment=DB9(Ä¸Í·)
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

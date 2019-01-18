@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Embedded_board.RUL]
+   Generated File[Embedded_board.EXTREP]
+   Generated File[Embedded_board.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:08:47 On 2018/10/18

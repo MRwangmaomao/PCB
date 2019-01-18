@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=IO-7
+Added Pin To Net: NetName=MCU_3V3 Pin=IO-8
+Added Pin To Net: NetName=GND Pin=IO-9
+Added Pin To Net: NetName=MCU_3V3 Pin=IO-10
+Added Pin To Net: NetName=C13 Pin=U1-8
+Added Pin To Net: NetName=C8 Pin=U1-117
+Added Pin To Net: NetName=C9 Pin=U1-118
+Added Pin To Net: NetName=C10 Pin=U1-139
+Added Pin To Net: NetName=C11 Pin=U1-140
+Added Pin To Net: NetName=C12 Pin=U1-141
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetJ14_4 Pin=U1-142
+Removed Pin From Net: NetName=NetJ13_4 Pin=U1-143
+Removed Pin From Net: NetName=NetJ12_4 Pin=U1-144
+Removed Pin From Net: NetName=NetJ11_4 Pin=U1-145
+Removed Pin From Net: NetName=NetJ10_4 Pin=U1-146
+Removed Pin From Net: NetName=NetJ9_4 Pin=U1-147
+Added Pin To Net: NetName=NetJ12_4 Pin=U1-169
+Added Pin To Net: NetName=NetJ13_4 Pin=U1-170
+Added Pin To Net: NetName=NetJ14_4 Pin=U1-173
+Added Pin To Net: NetName=NetJ9_4 Pin=U1-174
+Added Pin To Net: NetName=NetJ10_4 Pin=U1-175
+Added Pin To Net: NetName=NetJ11_4 Pin=U1-176
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

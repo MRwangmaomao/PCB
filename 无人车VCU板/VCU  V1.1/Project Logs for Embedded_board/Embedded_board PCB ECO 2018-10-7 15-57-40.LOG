@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=U2_TX_A3 Pin=U3-11
+Removed Pin From Net: NetName=U2_RX_A2 Pin=U3-12
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q2 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q3 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q4 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q5 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q6 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q7 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q8 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q9 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Footprint: Designator=Q10 Old Footprint=SOT-23 New Footprint=SOT-23R
+Change Component Comment : Designator=R44 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R53 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R65 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R69 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R83 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R89 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R91 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R92 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R97 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R101 Old Comment=1K New Comment=100
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R19 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R23 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R25 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R27 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R30 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R32 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R34 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R36 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R38 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R40 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R86 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R95 Old Comment=1K New Comment=550
+Change Component Comment : Designator=R87 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R96 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=Q1 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q2 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q3 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q4 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q5 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q6 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q7 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q8 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q9 Old Comment=NPN New Comment=S8050
+Change Component Comment : Designator=Q10 Old Comment=NPN New Comment=S8050
+Added Pin To Net: NetName=U2_RX_A2 Pin=U3-11
+Added Pin To Net: NetName=U2_TX_A3 Pin=U3-12
+Added Member To Class: ClassName=STM32F429_minimum_system Member=Component U1 STM32F429IGT6
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

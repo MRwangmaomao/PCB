@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=Main_sch.SchDoc|Designator= |SchDesignator= |FileName=Communicate_module.SchDoc|SymbolType=Normal|RawFileName=Communicate_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_sch.SchDoc|Designator= |SchDesignator= |FileName=Relay_module.SchDoc|SymbolType=Normal|RawFileName=Relay_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_sch.SchDoc|Designator= |SchDesignator= |FileName=STM32F429_minimum_system.SchDoc|SymbolType=Normal|RawFileName=STM32F429_minimum_system.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_sch.SchDoc|Designator= |SchDesignator= |FileName=Sensor_module.SchDoc|SymbolType=Normal|RawFileName=Sensor_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_sch.SchDoc|Designator= |SchDesignator= |FileName=Pwoer_module.SchDoc|SymbolType=Normal|RawFileName=Pwoer_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Main_sch.SchDoc

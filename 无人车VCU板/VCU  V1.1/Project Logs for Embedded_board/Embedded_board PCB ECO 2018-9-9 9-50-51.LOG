@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C26 Old Footprint=0402 New Footprint=0603P
+Change Component Footprint: Designator=C27 Old Footprint=0402 New Footprint=0603P
+Change Component Footprint: Designator=C28 Old Footprint=0402 New Footprint=0603P
+Change Component Footprint: Designator=C29 Old Footprint=0402 New Footprint=0603P
+Change Component Footprint: Designator=C30 Old Footprint=0402 New Footprint=0603P
+Change Component Comment : Designator=C26 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C27 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C28 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C29 Old Comment=104pF New Comment=104
+Change Component Comment : Designator=C30 Old Comment=104pF New Comment=104
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

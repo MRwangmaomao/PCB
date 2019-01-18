@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PGND Pin=12V OUT-1
+Removed Pin From Net: NetName=PGND Pin=12VOUT-3
+Removed Pin From Net: NetName=PGND Pin=12VOUT-5
+Removed Pin From Net: NetName=12V Pin=12VOUT-6
+Removed Pin From Net: NetName=HIGHLIGHT Pin=HeadLeftLight-1
+Removed Pin From Net: NetName=LOWLIGHT Pin=HeadLeftLight-2
+Removed Pin From Net: NetName=LEFTLIGHT Pin=HeadLeftLight-3
+Removed Pin From Net: NetName=PGND Pin=HeadLeftLight-4
+Removed Pin From Net: NetName=HIGHLIGHT Pin=HeadRightLight-1
+Removed Pin From Net: NetName=LOWLIGHT Pin=HeadRightLight-2
+Removed Pin From Net: NetName=RIGHTLIGHT Pin=HeadRightLight-3
+Removed Pin From Net: NetName=PGND Pin=HeadRightLight-4
+Removed Pin From Net: NetName=12V Pin=PowerIN-1
+Removed Pin From Net: NetName=PGND Pin=PowerIN-2
+Change Component DesignItemId : Designator=12VOUT Old DesignItemId=Header 3X2 New DesignItemId=Header 5
+Change Component Footprint: Designator=12VOUT Old Footprint=F-HEADER-2*3-2.54MM New Footprint=5566-5P
+Change Component Footprint: Designator=HeadLeftLight Old Footprint=F-HEADER-4-2.54MM New Footprint=63080-4P
+Change Component Footprint: Designator=HeadRightLight Old Footprint=F-HEADER-4-2.54MM New Footprint=63080-4P
+Change Component Footprint: Designator=12V OUT Old Footprint=T型头 New Footprint=63038-2P
+Change Component Footprint: Designator=Horn Old Footprint=T型头 New Footprint=63038-2P
+Change Component Footprint: Designator=PowerIN Old Footprint=T型头 New Footprint=63038-2P
+Change Component Footprint: Designator=WarningLight Old Footprint=T型头 New Footprint=63038-2P
+Change Component Comment : Designator=12VOUT Old Comment=Header 3X2 New Comment=Header 5
+Added Pin To Net: NetName=PGND Pin=12V OUT-2
+Added Pin To Net: NetName=12V Pin=12VOUT-3
+Added Pin To Net: NetName=12V Pin=12VOUT-5
+Added Pin To Net: NetName=PGND Pin=HeadLeftLight-1
+Added Pin To Net: NetName=LEFTLIGHT Pin=HeadLeftLight-2
+Added Pin To Net: NetName=LOWLIGHT Pin=HeadLeftLight-3
+Added Pin To Net: NetName=HIGHLIGHT Pin=HeadLeftLight-4
+Added Pin To Net: NetName=PGND Pin=HeadRightLight-1
+Added Pin To Net: NetName=RIGHTLIGHT Pin=HeadRightLight-2
+Added Pin To Net: NetName=LOWLIGHT Pin=HeadRightLight-3
+Added Pin To Net: NetName=HIGHLIGHT Pin=HeadRightLight-4
+Added Pin To Net: NetName=PGND Pin=PowerIN-1
+Added Pin To Net: NetName=12V Pin=PowerIN-2
+Added Pin To Net: NetName=Net12V OUT_1 Pin=12V OUT-1
+Added Pin To Net: NetName=Net12V OUT_1 Pin=F10-2
+Added Pin To Net: NetName=Net12V OUT_1 Pin=F10-2
+Added Net: Name=Net12V OUT_1
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\C项目\我的实战项目\2018-10-7VCU板V1.1\VCU  V1.1\Embedded_board.PcbDoc
+Date         : 2019/1/10
+Time         : 15:31:17
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 618
+    Connections routed, 618
+    Connections remaining, 0
+count : 4

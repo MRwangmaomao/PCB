@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=5V_2 Pin=J30-4
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

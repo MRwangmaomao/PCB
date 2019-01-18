@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=HORN Pin=Horn-1
+Removed Pin From Net: NetName=PGND Pin=Horn-2
+Removed Pin From Net: NetName=WARN Pin=WarningLight-1
+Removed Pin From Net: NetName=PGND Pin=WarningLight-2
+Added Pin To Net: NetName=PGND Pin=Horn-1
+Added Pin To Net: NetName=HORN Pin=Horn-2
+Added Pin To Net: NetName=PGND Pin=WarningLight-1
+Added Pin To Net: NetName=WARN Pin=WarningLight-2
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

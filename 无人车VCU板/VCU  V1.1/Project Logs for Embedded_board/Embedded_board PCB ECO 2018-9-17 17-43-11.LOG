@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetR49_1 Pin=U1-96
+Removed Pin From Net: NetName=NetR53_1 Pin=U1-97
+Removed Pin From Net: NetName=NetR57_1 Pin=U1-98
+Removed Pin From Net: NetName=NetR61_1 Pin=U1-99
+Removed Pin From Net: NetName=NetR65_2 Pin=U1-100
+Removed Pin From Net: NetName=NetR69_1 Pin=U1-101
+Change Component Designator: OldDesignator=AI NewDesignator=AnlogInput
+Added Pin To Net: NetName=NetR49_1 Pin=U1-50
+Added Pin To Net: NetName=NetR53_1 Pin=U1-51
+Added Pin To Net: NetName=NetR57_1 Pin=U1-52
+Added Pin To Net: NetName=NetR61_1 Pin=U1-53
+Added Pin To Net: NetName=NetR65_2 Pin=U1-77
+Added Pin To Net: NetName=NetR69_1 Pin=U1-78
+Added Pin To Net: NetName=H4 Pin=R44-1
+Added Pin To Net: NetName=H4 Pin=U1-45
+Added Net: Name=H4
+Added Pin To Net: NetName=H5 Pin=R45-1
+Added Pin To Net: NetName=H5 Pin=U1-46
+Added Net: Name=H5
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

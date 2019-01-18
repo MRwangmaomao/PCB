@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V Pin=Realy4-1
+Removed Pin From Net: NetName=NetF4_1 Pin=Realy4-3
+Removed Pin From Net: NetName=NetD5_1 Pin=Realy4-4
+Removed Pin From Net: NetName=NetD5_2 Pin=Realy4-5
+Removed Member From Class: ClassName=Relay_module Member=Realy4
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

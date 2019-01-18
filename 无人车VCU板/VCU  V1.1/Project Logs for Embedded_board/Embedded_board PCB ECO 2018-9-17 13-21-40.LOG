@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=C8 Pin=IO-1
+Removed Pin From Net: NetName=C9 Pin=IO-2
+Removed Pin From Net: NetName=C10 Pin=IO-3
+Removed Pin From Net: NetName=C11 Pin=IO-4
+Removed Pin From Net: NetName=C12 Pin=IO-5
+Removed Pin From Net: NetName=C13 Pin=IO-6
+Added Pin To Net: NetName=B10 Pin=IO-1
+Added Pin To Net: NetName=B10 Pin=U1-79
+Added Net: Name=B10
+Added Pin To Net: NetName=B11 Pin=IO-2
+Added Pin To Net: NetName=B11 Pin=U1-80
+Added Net: Name=B11
+Added Pin To Net: NetName=H6 Pin=IO-3
+Added Pin To Net: NetName=H6 Pin=U1-83
+Added Net: Name=H6
+Added Pin To Net: NetName=H7 Pin=IO-4
+Added Pin To Net: NetName=H7 Pin=U1-84
+Added Net: Name=H7
+Added Pin To Net: NetName=H8 Pin=IO-5
+Added Pin To Net: NetName=H8 Pin=U1-85
+Added Net: Name=H8
+Added Pin To Net: NetName=H9 Pin=IO-6
+Added Pin To Net: NetName=H9 Pin=U1-86
+Added Net: Name=H9
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

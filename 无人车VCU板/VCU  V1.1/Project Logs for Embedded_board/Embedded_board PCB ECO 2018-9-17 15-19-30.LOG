@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MCU_3V3 Pin=C26-2
+Removed Pin From Net: NetName=MCU_3V3 Pin=U3-16
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=3V3 Pin=U3-16
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

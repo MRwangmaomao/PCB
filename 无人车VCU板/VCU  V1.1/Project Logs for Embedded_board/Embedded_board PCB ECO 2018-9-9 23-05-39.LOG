@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=PGND Pin=Bumper1-4
+Removed Pin From Net: NetName=PGND Pin=Bumper2-4
+Removed Pin From Net: NetName=LEFTLIGHT Pin=MidLeftLight-1
+Removed Pin From Net: NetName=PGND Pin=MidLeftLight-2
+Removed Pin From Net: NetName=RIGHTLIGHT Pin=MidRightLight-1
+Removed Pin From Net: NetName=PGND Pin=MidRightLight-2
+Removed Pin From Net: NetName=NetBumper2_2 Pin=R32-1
+Removed Pin From Net: NetName=NetBumper2_3 Pin=R34-1
+Removed Pin From Net: NetName=NetBumper1_2 Pin=R38-1
+Removed Pin From Net: NetName=NetBumper1_3 Pin=R40-1
+Removed Pin From Net: NetName=LEFTLIGHT Pin=TailLeftLight-1
+Removed Pin From Net: NetName=DRIVINGLIGHT Pin=TailLeftLight-2
+Removed Pin From Net: NetName=REARLIGHT Pin=TailLeftLight-4
+Removed Pin From Net: NetName=PGND Pin=TailLeftLight-5
+Removed Pin From Net: NetName=RIGHTLIGHT Pin=TailRightLight-1
+Removed Pin From Net: NetName=DRIVINGLIGHT Pin=TailRightLight-2
+Removed Pin From Net: NetName=REARLIGHT Pin=TailRightLight-4
+Removed Pin From Net: NetName=PGND Pin=TailRightLight-5
+Change Component Footprint: Designator=LIN1 Old Footprint=F-HEADER-3-2.54MM New Footprint=5566-3P
+Change Component Footprint: Designator=LIN2 Old Footprint=F-HEADER-3-2.54MM New Footprint=5566-3P
+Change Component Footprint: Designator=Bumper1 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=Bumper2 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=Encoder1 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=Encoder2 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=Encoder3 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=Encoder4 Old Footprint=F-HEADER-4-2.54MM New Footprint=5566-4P
+Change Component Footprint: Designator=TailLeftLight Old Footprint=F-HEADER-5-2.54MM New Footprint=5566-5P
+Change Component Footprint: Designator=TailRightLight Old Footprint=F-HEADER-5-2.54MM New Footprint=5566-5P
+Change Component Footprint: Designator=CAN1 Old Footprint=T型头 New Footprint=5566-2P
+Change Component Footprint: Designator=CAN2 Old Footprint=T型头 New Footprint=5566-2P
+Change Component Footprint: Designator=MidLeftLight Old Footprint=T型头 New Footprint=5566-2P
+Change Component Footprint: Designator=MidRightLight Old Footprint=T型头 New Footprint=5566-2P
+Added Pin To Net: NetName=PGND Pin=Bumper1-1
+Added Pin To Net: NetName=PGND Pin=Bumper2-1
+Added Pin To Net: NetName=PGND Pin=MidLeftLight-1
+Added Pin To Net: NetName=LEFTLIGHT Pin=MidLeftLight-2
+Added Pin To Net: NetName=PGND Pin=MidRightLight-1
+Added Pin To Net: NetName=RIGHTLIGHT Pin=MidRightLight-2
+Added Pin To Net: NetName=NetBumper2_3 Pin=R32-1
+Added Pin To Net: NetName=NetBumper2_2 Pin=R34-1
+Added Pin To Net: NetName=NetBumper1_3 Pin=R38-1
+Added Pin To Net: NetName=NetBumper1_2 Pin=R40-1
+Added Pin To Net: NetName=REARLIGHT Pin=TailLeftLight-2
+Added Pin To Net: NetName=DRIVINGLIGHT Pin=TailLeftLight-4
+Added Pin To Net: NetName=LEFTLIGHT Pin=TailLeftLight-5
+Added Pin To Net: NetName=PGND Pin=TailRightLight-1
+Added Pin To Net: NetName=REARLIGHT Pin=TailRightLight-2
+Added Pin To Net: NetName=DRIVINGLIGHT Pin=TailRightLight-4
+Added Pin To Net: NetName=RIGHTLIGHT Pin=TailRightLight-5
+Added Pin To Net: NetName=NetBumper1_4 Pin=Bumper1-4
+Added Pin To Net: NetName=NetBumper1_4 Pin=R36-1
+Added Net: Name=NetBumper1_4
+Added Pin To Net: NetName=NetBumper2_4 Pin=Bumper2-4
+Added Pin To Net: NetName=NetBumper2_4 Pin=R30-1
+Added Net: Name=NetBumper2_4
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

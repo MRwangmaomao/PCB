@@ -1,0 +1,11 @@
+Added Component: Designator=U7(WRB1205MH)
+Added Pin To Net: NetName=PGND Pin=U7-1
+Added Pin To Net: NetName=12V Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=5V Pin=U7-4
+Added Member To Class: ClassName=Pwoer_module Member=Component U7 12V×ª5V¸ôÀëµçÔ´
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

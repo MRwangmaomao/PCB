@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=Relay2 NewDesignator=Relay5
+Change Component Designator: OldDesignator=Relay3 NewDesignator=Relay2
+Change Component Designator: OldDesignator=Relay4 NewDesignator=Relay6
+Change Component Designator: OldDesignator=Relay5 NewDesignator=Relay3
+Change Component Designator: OldDesignator=Relay6 NewDesignator=Relay7
+Change Component Designator: OldDesignator=¼ÌµçÆ÷7 NewDesignator=Realy4
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

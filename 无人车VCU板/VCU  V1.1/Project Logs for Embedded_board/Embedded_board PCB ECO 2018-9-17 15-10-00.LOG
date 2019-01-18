@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=AI NewDesignator=AnlogInput
+Change Net Name : Old Net Name=AD1 New Net Name=C0
+Change Net Name : Old Net Name=AD2 New Net Name=C1
+Change Net Name : Old Net Name=AD3 New Net Name=C2
+Change Net Name : Old Net Name=AD4 New Net Name=C3
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system

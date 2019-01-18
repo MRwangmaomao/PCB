@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=Relay1 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay2 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay3 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay5 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay7 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay8 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay9 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Change Component Footprint: Designator=Relay10 Old Footprint=¼ÌµçÆ÷ New Footprint=SRD-12VDC
+Added Component: Designator=Relay4(SRD-12VDC)
+Added Pin To Net: NetName=12V Pin=Relay4-1
+Added Pin To Net: NetName=NetF4_1 Pin=Relay4-3
+Added Pin To Net: NetName=NetD5_1 Pin=Relay4-4
+Added Pin To Net: NetName=NetD5_2 Pin=Relay4-5
+Added Member To Class: ClassName=Relay_module Member=Component Relay4 ¼ÌµçÆ÷
+Added Room: Name=Communicate_module
+Added Room: Name=Pwoer_module
+Added Room: Name=Relay_module
+Added Room: Name=Sensor_module
+Added Room: Name=STM32F429_minimum_system
